@@ -3,7 +3,7 @@ import numpy as np
 from scipy import sparse
 import math
 import matplotlib.pyplot as plt
-# Discrete time model of a quadcopter
+## Discrete time model of a quadcopter
 
 # Initial and reference states  
 
