@@ -1,0 +1,3 @@
+cd /etc/network
+sudo cp /etc/network/adhoc-interface interfaces
+sudo cp /etc/network/wifi- interface interfaces

@@ -1,0 +1,4 @@
+sudo su -root
+cd /dev
+chmod og+rwx gpio*
+
